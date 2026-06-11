@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:FF6B00,100:FFB800&height=230&section=header&text=GUARD%20OF%20HONORS&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Hall%20of%20Legendary%20Service%20%26%20Excellence&descSize=18&descAlignY=62&descColor=FFF3E0" width="100%"/>
-
-<br/>
-
 <!-- ── Status badges in GoFive Flame palette ── -->
 <p>
   <img src="https://img.shields.io/badge/+-STATUS%20%E2%80%A2%20LEGENDARY-FF6B00?style=for-the-badge&labelColor=1A1A1A"/>
