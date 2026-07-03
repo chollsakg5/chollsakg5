@@ -1,4 +1,4 @@
-<img src="<img width="100%" alt="image" src="https://github.com/user-attachments/assets/71ce8a77-019e-4cef-84df-0cd20c13e935"/>
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/71ce8a77-019e-4cef-84df-0cd20c13e935"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                        GUARD OF HONORS                          -->
