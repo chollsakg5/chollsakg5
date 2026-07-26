@@ -54,6 +54,29 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌟 Fourth Honor
+
+<img width="240" src="https://github.com/user-attachments/assets/6f5d5ee9-e315-4026-ad37-35420dcacf68" />
+
+<img src="https://img.shields.io/badge/Sentinel%20of%20Valor-FF512F?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🔥 Fifth Honor
+
+<img width="240" src="https://github.com/user-attachments/assets/808ee17f-de37-4789-85a0-0aee504738b2" />
+
+<img src="https://img.shields.io/badge/Flamebearer%20of%20Honor-FF8C00?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
