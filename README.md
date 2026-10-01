@@ -77,15 +77,30 @@
 </tr>
 </table>
 
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:FFB800&height=3&width=100%25&section=header"/>
-</div>
-</div>
+### 💎 Sixth Honor
 
-<br/>
+<img width="240" src="https://github.com/user-attachments/assets/bd0cbc62-3d34-44f6-b1c5-a85b45ddfd6e" />
 
+<img src="https://img.shields.io/badge/Warden%20of%20Dedication-FF7A1A?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🏆 Seventh Honor
+
+<img width="240" src="https://github.com/user-attachments/assets/557abea9-fdd7-4bf6-8931-95a1357e4ee4" />
+
+<img src="https://img.shields.io/badge/Champion%20of%20Legacy-FFA000?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 <!-- ════════════════════ THE LEGACY ════════════════════ -->
 
 <div align="center">
