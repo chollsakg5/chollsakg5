@@ -95,6 +95,26 @@
 <img src="https://img.shields.io/badge/Champion%20of%20Legacy-FFA000?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
+
+<td align="center" width="25%">
+
+### 🏆 Eighth Honor
+
+<img width="200" src="https://github.com/user-attachments/assets/db8eb42c-07c2-4e7f-8bed-4c7180fa5403" />
+
+<img src="https://img.shields.io/badge/Champion%20of%20Legacy-FFA000?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆 Ninth Honor
+
+<img width="200" src="https://github.com/user-attachments/assets/e7970dfc-df26-40d6-b05b-826e2c547bb4" />
+
+<img src="https://img.shields.io/badge/Champion%20of%20Legacy-FFA000?style=flat-square&labelColor=1A1A1A"/>
+
+</td>
 </tr>
 </table>
 
