@@ -16,83 +16,81 @@
 
 <!-- ── Animated headline in Flame gold ── -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=720&lines=GUARD+OF+HONORS;LEGENDARY+SERVICE;EMPOWERING+PEOPLE;ETERNAL+LEGACY"/>
+
 <!-- ════════════════════ HALL OF ACHIEVEMENTS ════════════════════ -->
 
 <div align="center">
 
 ## ✨ &nbsp; HALL OF ACHIEVEMENTS
 
+<!-- ── Row 1 : 4 honors ── -->
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### ⚔️ First Honor
 
-<img src="https://github.com/user-attachments/assets/e5df958d-223e-467a-8a09-dfb863a78f4f" width="240"/>
+<img width="200" src="https://github.com/user-attachments/assets/e5df958d-223e-467a-8a09-dfb863a78f4f" />
 
 <img src="https://img.shields.io/badge/Guardian%20of%20Commitment-FF6B00?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🏛️ Second Honor
 
-<img src="https://github.com/user-attachments/assets/707503d7-1773-434d-8fd8-6fd6e0575554" width="240"/>
+<img width="200" src="https://github.com/user-attachments/assets/707503d7-1773-434d-8fd8-6fd6e0575554" />
 
 <img src="https://img.shields.io/badge/Keeper%20of%20Excellence-E5530A?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🛡️ Third Honor
 
-<img src="https://github.com/user-attachments/assets/637ca547-d4fb-4082-81fc-52d6dac70bd8" width="240"/>
+<img width="200" src="https://github.com/user-attachments/assets/637ca547-d4fb-4082-81fc-52d6dac70bd8" />
 
 <img src="https://img.shields.io/badge/Legend%20of%20Service-FFB800?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🌟 Fourth Honor
 
-<img width="240" src="https://github.com/user-attachments/assets/6f5d5ee9-e315-4026-ad37-35420dcacf68" />
+<img width="200" src="https://github.com/user-attachments/assets/6f5d5ee9-e315-4026-ad37-35420dcacf68" />
 
 <img src="https://img.shields.io/badge/Sentinel%20of%20Valor-FF512F?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-<td align="center" width="33%">
+</tr>
+</table>
+
+<!-- ── Row 2 : 3 honors ── -->
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### 🔥 Fifth Honor
 
-<img width="240" src="https://github.com/user-attachments/assets/808ee17f-de37-4789-85a0-0aee504738b2" />
+<img width="200" src="https://github.com/user-attachments/assets/808ee17f-de37-4789-85a0-0aee504738b2" />
 
 <img src="https://img.shields.io/badge/Flamebearer%20of%20Honor-FF8C00?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 💎 Sixth Honor
 
-<img width="240" src="https://github.com/user-attachments/assets/bd0cbc62-3d34-44f6-b1c5-a85b45ddfd6e" />
+<img width="200" src="https://github.com/user-attachments/assets/bd0cbc62-3d34-44f6-b1c5-a85b45ddfd6e" />
 
 <img src="https://img.shields.io/badge/Warden%20of%20Dedication-FF7A1A?style=flat-square&labelColor=1A1A1A"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🏆 Seventh Honor
 
-<img width="240" src="https://github.com/user-attachments/assets/557abea9-fdd7-4bf6-8931-95a1357e4ee4" />
+<img width="200" src="https://github.com/user-attachments/assets/557abea9-fdd7-4bf6-8931-95a1357e4ee4" />
 
 <img src="https://img.shields.io/badge/Champion%20of%20Legacy-FFA000?style=flat-square&labelColor=1A1A1A"/>
 
@@ -101,6 +99,14 @@
 </table>
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:FFB800&height=3&width=100%25&section=header"/>
+</div>
+</div>
+
+<br/>
+
 <!-- ════════════════════ THE LEGACY ════════════════════ -->
 
 <div align="center">
@@ -159,8 +165,6 @@ These honors represent a legacy forged through **commitment**, **courage**, and 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:FFB800&height=3&width=100%25&section=header"/>
 </div>
 
-
-
 <!-- ════════════════════ LEGENDARY OATH ════════════════════ -->
 
 <div align="center">
@@ -195,6 +199,5 @@ These honors represent a legacy forged through **commitment**, **courage**, and 
   <img src="https://img.shields.io/badge/by-GoFive-FF512F?style=for-the-badge&labelColor=1A1A1A"/>
   <img src="https://img.shields.io/badge/Empowering-People-FFB800?style=for-the-badge&labelColor=1A1A1A"/>
 </p>
-
 
 </div>
